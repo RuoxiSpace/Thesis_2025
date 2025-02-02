@@ -6,10 +6,10 @@
 
 **Keywords**: Facial Emotion Recognition, Fairness, Vision Transformer, Balanced Fairness-Accuracy Score, Deep Learning
 
-**Dataset**: downloaded from [here](https://www.kaggle.com/datasets/hoanguyensgu/raf-db/data).
+**Dataset**: RAF-DB, downloaded from [here](https://www.kaggle.com/datasets/hoanguyensgu/raf-db/data).
 
 **File description**:
 - `code_scripts`: scripts for training and evaluating different models, including ViT, CNN, and VGG.
 - `predictions`: predicted labels from various models on the test dataset.
 - `analysis_notebook`: Jupyter notebooks used for data analysis, model comparison, and visualization of results.
-- `raf_labels.csv`: all ground truth labels for the RAF-DB dataset.
+- `raf_labels.csv`: all ground truth labels (emotion, gender, race, age) for the RAF-DB dataset.
