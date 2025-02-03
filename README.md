@@ -14,7 +14,7 @@
 **Experimental Procedure**:
 1. Data preprocessing: removing irrelevant data samples, unifying data naming, combining all relevant label information, and resizing and normalizing to match the input requirements of different models.
 2. Model application: applying different models with different techniques and stategies (e.g., augmentation, architecture modification, fairness-aware weighting).
-3. Evaluation: assessing models by accuracy (along with 95% CI), fairness metrics, and a balanced accuracy-fairness metric proposed by us.
+3. Evaluation: assessing models by different metrics.
 4. Comparative analysis: comparing different versions of the ViT model (e.g., ViT, ViT+Aug) both against each other and against CNN and VGG to evaluate improvements in accuracy and fairness.
 5. Statistical validation: employing McNemar's Test to evaluate whether the changes in predictions between two models are significant.
 
