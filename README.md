@@ -9,7 +9,7 @@
 **Dataset**: RAF-DB, downloaded from [here](https://www.kaggle.com/datasets/hoanguyensgu/raf-db/data).
 
 **File description**:
-- `code_scripts`: scripts for training and evaluating different models with strategies, including ViT, CNN, and VGG.
+- `code_scripts`: scripts for training and evaluating different models with strategies. Models include ViT, CNN, and VGG.
 - `predictions`: predicted labels from various models on the test dataset.
 - `analysis_notebook`: Jupyter notebooks used for data analysis, model comparison, and visualization of results.
 - `raf_labels.csv`: all ground truth labels (emotion, gender, race, age) for the RAF-DB dataset.
