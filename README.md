@@ -20,11 +20,10 @@
 
 
 **File Description**:
-
-- `01_...`, `02_...`, ..., `05_...`: contain scripts for training and evaluating various models (ViT, CNN, and VGG) using different techniques and optimization strategies.
-
-- `anaysis_notebooks`: Jupyter notebooks used for data analysis, model comparison, and visualization of results.
-
-- `raf_labels.csv`: a CSV file containing ground truth labels (emotion, gender, race and age) for the RAF-DB dataset.
+- `raf_labels.csv`: from data preprocessing, contains ground truth labels (emotion, gender, race and age) of dataset.
+- `01_...`, `02_...`, ..., `05_...`: contain scripts for implementing various models using different techniques and optimization strategies.
+- `predictions`: contains all model-generated predictions.
+- `anaysis_notebooks`: Jupyter notebooks for data analysis, model comparison, and visualization of results.
+- `anaysis_results`: contains processed results from `anaysis_notebooks`.
 
 
